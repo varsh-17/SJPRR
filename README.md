@@ -11,4 +11,3 @@ about the proposed algorithm,Shortest Job Prioritised Round
 Robin Algorithm(SJPRR) which is written using base idea of
 allocating dynamic time quantum to each process in every round
 is expected to result in lesser average TAT and average WT.
-Index Terms—Turn Around Time(TAT),Waiting Time(WT)
